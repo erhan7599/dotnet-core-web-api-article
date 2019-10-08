@@ -1,0 +1,14 @@
+C:\Users\erhan.karaagac\source\repos\Article.Web.API\Article.Web.API\bin\Debug\netcoreapp2.1\Article.Web.API.deps.json
+C:\Users\erhan.karaagac\source\repos\Article.Web.API\Article.Web.API\bin\Debug\netcoreapp2.1\Article.Web.API.runtimeconfig.json
+C:\Users\erhan.karaagac\source\repos\Article.Web.API\Article.Web.API\bin\Debug\netcoreapp2.1\Article.Web.API.runtimeconfig.dev.json
+C:\Users\erhan.karaagac\source\repos\Article.Web.API\Article.Web.API\bin\Debug\netcoreapp2.1\Article.Web.API.dll
+C:\Users\erhan.karaagac\source\repos\Article.Web.API\Article.Web.API\obj\Debug\netcoreapp2.1\Article.Web.API.csproj.CoreCompileInputs.cache
+C:\Users\erhan.karaagac\source\repos\Article.Web.API\Article.Web.API\obj\Debug\netcoreapp2.1\Article.Web.API.RazorAssemblyInfo.cache
+C:\Users\erhan.karaagac\source\repos\Article.Web.API\Article.Web.API\obj\Debug\netcoreapp2.1\Article.Web.API.RazorAssemblyInfo.cs
+C:\Users\erhan.karaagac\source\repos\Article.Web.API\Article.Web.API\obj\Debug\netcoreapp2.1\Article.Web.API.AssemblyInfoInputs.cache
+C:\Users\erhan.karaagac\source\repos\Article.Web.API\Article.Web.API\obj\Debug\netcoreapp2.1\Article.Web.API.AssemblyInfo.cs
+C:\Users\erhan.karaagac\source\repos\Article.Web.API\Article.Web.API\obj\Debug\netcoreapp2.1\Article.Web.API.RazorTargetAssemblyInfo.cache
+C:\Users\erhan.karaagac\source\repos\Article.Web.API\Article.Web.API\bin\Debug\netcoreapp2.1\Article.Web.API.pdb
+C:\Users\erhan.karaagac\source\repos\Article.Web.API\Article.Web.API\obj\Debug\netcoreapp2.1\Article.Web.API.dll
+C:\Users\erhan.karaagac\source\repos\Article.Web.API\Article.Web.API\obj\Debug\netcoreapp2.1\Article.Web.API.pdb
+C:\Users\erhan.karaagac\source\repos\Article.Web.API\Article.Web.API\obj\Debug\netcoreapp2.1\Article.Web.API.csprojAssemblyReference.cache
