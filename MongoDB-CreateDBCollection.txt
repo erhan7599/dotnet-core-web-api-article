@@ -1,0 +1,4 @@
+use ArticleData
+db.createCollection("articles")
+
+//GUI olarak Robomongo kullanılmıştır.
